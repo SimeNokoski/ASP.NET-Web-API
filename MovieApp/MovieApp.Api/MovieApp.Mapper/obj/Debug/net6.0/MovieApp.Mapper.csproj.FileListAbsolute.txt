@@ -1,0 +1,17 @@
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.Mapper.deps.json
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.Mapper.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\bin\Debug\net6.0\MovieApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\refint\MovieApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\MovieApp.Mapper.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.Mapper\obj\Debug\net6.0\ref\MovieApp.Mapper.dll

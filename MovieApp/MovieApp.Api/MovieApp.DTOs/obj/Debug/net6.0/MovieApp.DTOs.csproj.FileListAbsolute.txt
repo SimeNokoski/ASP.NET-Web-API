@@ -1,0 +1,15 @@
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\bin\Debug\net6.0\MovieApp.DTOs.deps.json
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\bin\Debug\net6.0\MovieApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\bin\Debug\net6.0\MovieApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\refint\MovieApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\MovieApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DTOs\obj\Debug\net6.0\ref\MovieApp.DTOs.dll

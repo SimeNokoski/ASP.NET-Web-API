@@ -1,0 +1,17 @@
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.DataAccess.deps.json
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.DataAccess.runtimeconfig.json
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.DataAccess.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.Domain.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\bin\Debug\net6.0\MovieApp.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\refint\MovieApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.pdb
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\MovieApp.DataAccess.genruntimeconfig.cache
+C:\Users\simen\OneDrive\Desktop\MovieApp\MovieApp.Api\MovieApp.DataAccess\obj\Debug\net6.0\ref\MovieApp.DataAccess.dll

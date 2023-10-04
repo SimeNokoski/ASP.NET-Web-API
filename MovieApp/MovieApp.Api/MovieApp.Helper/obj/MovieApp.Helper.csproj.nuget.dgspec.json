@@ -1,0 +1,460 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Helper\\MovieApp.Helper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj",
+        "projectName": "MovieApp.DataAccess",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj",
+        "projectName": "MovieApp.Domain",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj",
+        "projectName": "MovieApp.DTOs",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Helper\\MovieApp.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Helper\\MovieApp.Helper.csproj",
+        "projectName": "MovieApp.Helper",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Helper\\MovieApp.Helper.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj"
+              },
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\MovieApp.Service.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\MovieApp.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\MovieApp.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\MovieApp.Mapper.csproj",
+        "projectName": "MovieApp.Mapper",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\MovieApp.Mapper.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Domain\\MovieApp.Domain.csproj"
+              },
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\MovieApp.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\MovieApp.Service.csproj",
+        "projectName": "MovieApp.Service",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\MovieApp.Service.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DataAccess\\MovieApp.DataAccess.csproj"
+              },
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.DTOs\\MovieApp.DTOs.csproj"
+              },
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\MovieApp.Mapper.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Mapper\\MovieApp.Mapper.csproj"
+              },
+              "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\MovieApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\MovieApp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\MovieApp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\MovieApp.Shared.csproj",
+        "projectName": "MovieApp.Shared",
+        "projectPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\MovieApp.Shared.csproj",
+        "packagesPath": "C:\\Users\\simen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\simen\\OneDrive\\Desktop\\MovieApp\\MovieApp.Api\\MovieApp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\simen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

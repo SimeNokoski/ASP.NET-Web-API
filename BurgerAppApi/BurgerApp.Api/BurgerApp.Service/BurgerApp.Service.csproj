@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="XAct.Core.PCL" Version="0.0.5014" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BurgerApp.DataAccess\BurgerApp.DataAccess.csproj" />
+    <ProjectReference Include="..\BurgerApp.DTOs\BurgerApp.DTOs.csproj" />
+    <ProjectReference Include="..\BurgerApp.Mapper\BurgerApp.Mapper.csproj" />
+    <ProjectReference Include="..\BurgerApp.Shared\BurgerApp.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

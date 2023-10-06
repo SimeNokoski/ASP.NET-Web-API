@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dp9OlAY96jEmHl7gOISluebmkxhHWKnF3DwvnrVspvM=",
+  "Source": "BurgerApp.Api",
+  "BasePath": "_content/BurgerApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

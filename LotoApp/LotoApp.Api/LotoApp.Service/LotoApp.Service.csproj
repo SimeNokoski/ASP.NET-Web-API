@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.0.2" />
+    <PackageReference Include="XAct.Core.PCL" Version="0.0.5014" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LotoApp.DataAccess\LotoApp.DataAccess.csproj" />
+    <ProjectReference Include="..\LotoApp.Domain\LotoApp.Domain.csproj" />
+    <ProjectReference Include="..\LotoApp.DTOs\LotoApp.DTOs.csproj" />
+    <ProjectReference Include="..\LotoApp.Mapper\LotoApp.Mapper.csproj" />
+    <ProjectReference Include="..\LotoApp.Shared\LotoApp.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

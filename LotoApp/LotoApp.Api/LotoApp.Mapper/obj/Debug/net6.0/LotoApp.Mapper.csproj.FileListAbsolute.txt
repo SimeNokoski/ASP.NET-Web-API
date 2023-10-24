@@ -1,0 +1,17 @@
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.Mapper.deps.json
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.Mapper.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.Domain.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\bin\Debug\net6.0\LotoApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\refint\LotoApp.Mapper.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\LotoApp.Mapper.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Mapper\obj\Debug\net6.0\ref\LotoApp.Mapper.dll

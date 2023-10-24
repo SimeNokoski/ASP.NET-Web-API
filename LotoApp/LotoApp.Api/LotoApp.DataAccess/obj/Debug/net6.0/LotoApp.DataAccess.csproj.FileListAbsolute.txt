@@ -1,0 +1,17 @@
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.DataAccess.deps.json
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.DataAccess.runtimeconfig.json
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.DataAccess.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.Domain.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\bin\Debug\net6.0\LotoApp.Domain.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.csproj.CopyComplete
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\refint\LotoApp.DataAccess.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\LotoApp.DataAccess.genruntimeconfig.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DataAccess\obj\Debug\net6.0\ref\LotoApp.DataAccess.dll

@@ -1,0 +1,12 @@
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\bin\Debug\net6.0\LotoApp.Shared.deps.json
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\bin\Debug\net6.0\LotoApp.Shared.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\bin\Debug\net6.0\LotoApp.Shared.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\refint\LotoApp.Shared.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\LotoApp.Shared.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.Shared\obj\Debug\net6.0\ref\LotoApp.Shared.dll

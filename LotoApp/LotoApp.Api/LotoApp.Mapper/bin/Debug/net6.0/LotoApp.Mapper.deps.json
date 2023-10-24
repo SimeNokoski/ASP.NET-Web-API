@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LotoApp.Mapper/1.0.0": {
+        "dependencies": {
+          "LotoApp.DTOs": "1.0.0",
+          "LotoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LotoApp.Mapper.dll": {}
+        }
+      },
+      "LotoApp.Domain/1.0.0": {
+        "runtime": {
+          "LotoApp.Domain.dll": {}
+        }
+      },
+      "LotoApp.DTOs/1.0.0": {
+        "runtime": {
+          "LotoApp.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LotoApp.Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LotoApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LotoApp.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

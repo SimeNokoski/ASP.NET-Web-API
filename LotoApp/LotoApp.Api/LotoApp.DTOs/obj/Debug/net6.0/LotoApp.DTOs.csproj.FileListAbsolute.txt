@@ -1,0 +1,12 @@
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\bin\Debug\net6.0\LotoApp.DTOs.deps.json
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\bin\Debug\net6.0\LotoApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\bin\Debug\net6.0\LotoApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.csproj.AssemblyReference.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.AssemblyInfoInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.AssemblyInfo.cs
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\refint\LotoApp.DTOs.dll
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\LotoApp.DTOs.pdb
+C:\Users\simen\OneDrive\Desktop\LotoApp\LotoApp.Api\LotoApp.DTOs\obj\Debug\net6.0\ref\LotoApp.DTOs.dll
